@@ -1,6 +1,6 @@
 ## Highway Route Planner
 
-This program was developed as the project for the Algoritmi e Principi dell'Informatica (API) course @ Milan Polytechnic.
+This program was developed as a project for the Algoritmi e Principi dell'Informatica (API) course @ Milan Polytechnic.
 
 The project was graded based on running time and memory usage, with lower values in both categories resulting in higher scores.
 
@@ -25,6 +25,8 @@ Given a highway with charging stations at various distances, each with a fleet o
 - Manage electric vehicles at each station (add/scrap)
 - Find the route with the fewest stops between any two stations
 - When multiple routes have the same number of stops, prefer the one with earlier stops
+
+The full specification of the project can be found [here](https://github.com/SalimSalici/API_LT_22_23/blob/main/Specifica_2022-2023.pdf)
 
 ### Tools
 
