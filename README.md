@@ -26,7 +26,7 @@ Given a highway with charging stations at various distances, each with a fleet o
 - Find the route with the fewest stops between any two stations
 - When multiple routes have the same number of stops, prefer the one with earlier stops
 
-The full specification of the project can be found [here](https://github.com/SalimSalici/API_LT_22_23/blob/main/Specifica_2022-2023.pdf)
+The full specification of the project (in Italian) can be found [here](https://github.com/SalimSalici/API_LT_22_23/blob/main/Specifica_2022-2023.pdf).
 
 ### Tools
 
