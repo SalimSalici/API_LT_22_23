@@ -6,7 +6,7 @@ The project was graded based on running time and memory usage, with lower values
 
 **Professor:** Davide Martinenghi
 
-**Final Grade:** 30/30 cum laude
+**Final Grade:** 30/30 with honors
 
 ### Evaluation table
 | Score        |   Memory  | Time    |       Status       |
