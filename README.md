@@ -9,14 +9,14 @@ The project was graded based on running time and memory usage, with lower values
 **Final Grade:** 30/30 with honors
 
 ### Evaluation table
-| Score        |   Memory  | Time    |       Status       |
-|--------------|----------:|--------:|:------------------:|
-| 18           | < 128 MiB | < 19 s  | :white_check_mark: |
-| 21           | < 118 MiB | < 15 s  | :white_check_mark: |
-| 24           | < 108 MiB | < 10 s  | :white_check_mark: |
-| 27           |  < 98 MiB | < 6 s   | :white_check_mark: |
-| 30           |  < 88 MiB | < 4 s   | :white_check_mark: |
-| 30 cum laude |  < 78 MiB | < 1 s   | :white_check_mark: |
+| Score          |   Memory  | Time    |       Status       |
+|----------------|----------:|--------:|:------------------:|
+| 18             | < 128 MiB | < 19 s  | :white_check_mark: |
+| 21             | < 118 MiB | < 15 s  | :white_check_mark: |
+| 24             | < 108 MiB | < 10 s  | :white_check_mark: |
+| 27             |  < 98 MiB | < 6 s   | :white_check_mark: |
+| 30             |  < 88 MiB | < 4 s   | :white_check_mark: |
+| 30 with honors |  < 78 MiB | < 1 s   | :white_check_mark: |
 
 ### Problem Statement
 Given a highway with charging stations at various distances, each with a fleet of electric vehicles of different ranges, the program must:
